@@ -1,0 +1,15 @@
+Justin M. Rowe
+MIU Project 1 
+
+Master:
+https://github.com/JustinRowe15/MIU-Justin-Rowe
+
+gh pages Branch:
+https://github.com/JustinRowe15/MIU-Justin-Rowe/tree/gh-pages
+
+Clickable Links:
+http://justinrowe15.github.com/MIU-Justin-Rowe/Week%201/
+
+http://justinrowe15.github.com/MIU-Justin-Rowe/Week%201/newProject/additem.html
+
+http://justinrowe15.github.com/MIU-Justin-Rowe/Week%201/comingSoon/comingsoon.html

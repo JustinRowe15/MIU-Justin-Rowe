@@ -1,0 +1,26 @@
+/*
+Name: Justin M. Rowe
+Course: Mobile Interface and Usability 1208 (MIU)
+Assignment: Project 1
+Full Sail University
+*/
+
+body {
+	background-color: rgb(218,234,193);
+}
+
+header {
+	position: relative;
+	top: -8px;
+	left: -8px;
+	width: 320px;
+	height: 75px;
+}
+
+p {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 20pt;
+	text-align: left;
+	color: rgb(106,115,104);
+	text-align: center
+}
